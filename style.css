@@ -1,0 +1,67 @@
+.container{
+    padding-left: 5px;
+    margin-right: 20px;
+
+}
+.firstpart{
+    width: 75%;
+}
+.navbar{
+    width: 25%;
+}
+.button{
+    border-radius: 40px;
+    background-color: aquamarine ;
+    border: none;
+    padding: 10px 20px;
+}
+.card-title{
+    color: red;
+}
+.card-title1.span{
+    color: blue;
+    font-size: large;
+    font-style: normal;
+}
+.card-img-top{
+    max-width:30%;
+align-content: center;
+
+}
+.card-body{
+margin-top: 50px;
+padding: 20px;
+  
+}
+.second-page{
+border: none;
+box-shadow: 5px 5px 10px rgb(75, 194, 144);
+    border-radius:10px ;
+    margin-top:10px ;
+    background-color:white;
+}/*
+.card-group{
+border-radius: 40px;
+border-width: 10px;
+
+}*/
+.thirdpage{
+max-width:32% ;
+padding: 10px;
+
+}
+.b-one{
+border-radius: 20px;
+background-color:rgb(0, 252, 105);
+border-color:navajowhite;
+color: honeydew;
+
+}
+.container2{
+    background-color: rgb(90, 55, 55);
+    color: rgb(250, 247, 242);
+
+}
+
+
+
